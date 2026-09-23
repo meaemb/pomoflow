@@ -1,0 +1,156 @@
+{
+  "tips": [
+    {
+      "id": "pomodoro",
+      "name": "Pomodoro Technique",
+      "description": "Work 25 min, break 5 min. Repeat 4 times, then long break.",
+      "provider": "PomoFlow",
+      "rating": 4.9,
+      "duration": "25 min",
+      "level": "Beginner",
+      "imageUrl": "assets/tips/pomodoro.jpg",
+      "steps": [
+        {
+          "title": "Choose a task",
+          "description": "Pick one specific task",
+          "fullDescription": "Select one specific task you want to accomplish. Write it down if needed. Make sure it's a single task that can be completed in one Pomodoro session. Avoid multitasking.",
+          "duration": "1-2 min",
+          "tip": "Start with the most important task of your day.",
+          "durationInMinutes": 25
+        },
+        {
+          "title": "Set timer 25 min",
+          "description": "Focus only on that task",
+          "fullDescription": "Start the timer for 25 minutes. During this time, focus only on your chosen task. No phone, no social media, no distractions. Just work.",
+          "duration": "25 min",
+          "tip": "Put your phone away. Close unnecessary tabs.",
+          "durationInMinutes": 25
+        },
+        {
+          "title": "Take 5 min break",
+          "description": "Step away from desk",
+          "fullDescription": "Step away from your desk. Stretch your legs, drink water, close your eyes. Do anything that helps you relax, but avoid screens.",
+          "duration": "5 min",
+          "tip": "Walk around, stretch, drink water. No screens!",
+          "durationInMinutes": 5
+        },
+        {
+          "title": "Repeat 4 times",
+          "description": "Then take 15-30 min break",
+          "fullDescription": "After 4 Pomodoros (about 2 hours), take a longer break of 15-30 minutes. Use this time to rest, eat, or go for a walk.",
+          "duration": "After 4 cycles",
+          "tip": "After 4 cycles, you deserve a longer break!",
+          "durationInMinutes": 15
+        }
+      ]
+    },
+    {
+      "id": "no_phone",
+      "name": "No Phone Rule",
+      "description": "Keep phone away during work sessions",
+      "provider": "PomoFlow",
+      "rating": 4.7,
+      "duration": "25 min",
+      "level": "Easy",
+      "imageUrl": "assets/tips/nophone.jpg",
+      "steps": [
+        {
+          "title": "Put phone away",
+          "description": "Keep in another room",
+          "fullDescription": "Physically place your phone in another room. Out of sight, out of mind. This removes the temptation to check notifications.",
+          "duration": "1 min",
+          "tip": "Use an actual alarm clock instead of your phone.",
+          "durationInMinutes": 25
+        },
+        {
+          "title": "Use Focus Mode",
+          "description": "Enable Do Not Disturb",
+          "fullDescription": "Enable Do Not Disturb mode on all your devices. Block distracting apps and websites.",
+          "duration": "1 min",
+          "tip": "Most phones have a 'Focus Mode' feature.",
+          "durationInMinutes": 25
+        },
+        {
+          "title": "Check on breaks",
+          "description": "Only during breaks",
+          "fullDescription": "Only check your phone during scheduled breaks. This trains your brain to focus without constant interruptions.",
+          "duration": "5 min",
+          "tip": "Set a timer for your phone check.",
+          "durationInMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "one_task",
+      "name": "One Task at a Time",
+      "description": "Focus on one thing. Multitasking reduces productivity.",
+      "provider": "PomoFlow",
+      "rating": 4.8,
+      "duration": "25 min",
+      "level": "Intermediate",
+      "imageUrl": "assets/tips/onetask.jpg",
+      "steps": [
+        {
+          "title": "Write down your task",
+          "description": "Be specific",
+          "fullDescription": "Write down exactly what you need to accomplish. Being specific helps your brain focus on one thing.",
+          "duration": "2 min",
+          "tip": "Use a notebook or digital task manager.",
+          "durationInMinutes": 25
+        },
+        {
+          "title": "Block distractions",
+          "description": "Close unnecessary tabs",
+          "fullDescription": "Close all unnecessary browser tabs and apps. Keep only what you need for your current task.",
+          "duration": "2 min",
+          "tip": "Use website blockers if needed.",
+          "durationInMinutes": 25
+        },
+        {
+          "title": "Work until timer rings",
+          "description": "No switching",
+          "fullDescription": "Do not switch tasks until the timer rings. If a new task comes to mind, write it down and return to your current task.",
+          "duration": "25 min",
+          "tip": "The 2-minute rule: if it takes less than 2 minutes, do it now.",
+          "durationInMinutes": 25
+        }
+      ]
+    },
+    {
+      "id": "take_breaks",
+      "name": "Take Breaks Seriously",
+      "description": "Breaks help you recharge and maintain focus",
+      "provider": "PomoFlow",
+      "rating": 4.6,
+      "duration": "5 min",
+      "level": "Easy",
+      "imageUrl": "assets/tips/breaks.jpg",
+      "steps": [
+        {
+          "title": "Stand up and stretch",
+          "description": "Move your body",
+          "fullDescription": "Stand up from your desk. Stretch your arms, legs, and back. This improves blood flow and reduces muscle tension.",
+          "duration": "2 min",
+          "tip": "Set a timer to remind you to stand up every hour.",
+          "durationInMinutes": 5
+        },
+        {
+          "title": "Drink water",
+          "description": "Stay hydrated",
+          "fullDescription": "Drink a glass of water. Dehydration can cause fatigue and reduce concentration. Keep a water bottle at your desk.",
+          "duration": "1 min",
+          "tip": "Aim for 8 glasses of water per day.",
+          "durationInMinutes": 5
+        },
+        {
+          "title": "Deep breaths",
+          "description": "Reset your mind",
+          "fullDescription": "Take 5 deep breaths. Inhale slowly through your nose, hold for a moment, exhale through your mouth. This reduces stress and clears your mind.",
+          "duration": "2 min",
+          "tip": "Try the 4-7-8 breathing technique.",
+          "durationInMinutes": 5
+        }
+      ]
+    }
+  ]
+}
